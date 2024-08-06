@@ -1,10 +1,6 @@
-Music-Extended (arm-v7a): 7.10.52  
-Twitter: 10.50.1-release.0  
-Twitter-Piko: 10.50.1-release.0  
-Music-Extended (arm64-v8a): 7.10.52  
-Reddit-Extended: 2024.17.0  
+Twitter: 10.52.0-release.0  
+Twitter-Piko: 10.52.0-release.0  
 SyncForReddit: v23.06.30-13:39  
-YouTube-Extended: 19.16.39  
 InfinityForReddit: 7.2.9  
 TikTok: 32.5.3  
 
@@ -14,16 +10,14 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: crimera/revanced-integrations-1.22.0.apk  
-Patches: crimera/piko-twitter-patches-1.33.0.jar  
-[Changelog](https://github.com/crimera/piko/releases/tag/v1.33.0)
-
-CLI: inotia00/revanced-cli-4.6.1-all.jar  
-Integrations: inotia00/revanced-integrations-1.11.3.apk  
-Patches: inotia00/revanced-patches-4.10.3.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.10.3)
+Integrations: crimera/revanced-integrations-1.23.0.apk  
+Patches: crimera/piko-twitter-patches-1.34.1.jar  
+[Changelog](https://github.com/crimera/piko/releases/tag/v1.34.1)
 
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.11.1.apk  
-Patches: ReVanced/revanced-patches-4.11.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.11.0)  
+Integrations: ReVanced/revanced-integrations-1.12.0.apk  
+Patches: ReVanced/revanced-patches-4.12.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.12.0)  
+
+Skipped:  
+Patches: inotia00/revanced-patches-4.10.3.jar    
